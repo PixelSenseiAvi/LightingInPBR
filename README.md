@@ -18,8 +18,8 @@ PBR is a state-of-the-art rendering technique used in modern graphics applicatio
 
 ## 🎨 Assets
 
-- **Model Assets**: [Download here]([LINK_TO_MODEL_ASSETS](https://skfb.ly/oIOWN))
-- **Environment HDR IBL Map**: [Download here]([LINK_TO_HDR_IBL_MAP](https://www.hdri-hub.com/hdrishop/freesamples/freehdri/item/113-hdr-111-parking-space-free)
+- [**Model Assets**](https://skfb.ly/oIOWN)
+- [**Environment HDR IBL Map**](https://www.hdri-hub.com/hdrishop/freesamples/freehdri/item/113-hdr-111-parking-space-free)
 
 > 🚀 Note: Make sure to place the downloaded assets in the appropriate directories before running the project.
 
