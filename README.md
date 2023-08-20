@@ -1,6 +1,6 @@
-# PBR (Physically-Based Rendering) ✨
+# IBL (Physically-Based Rendering - Image Based Lighting) ✨
 
-![PBR Preview](./assets/preview.png) 
+![IBL Preview](./assets/preview.png) 
 
 PBR is a state-of-the-art rendering technique used in modern graphics applications and game engines. This repository contains a minimalistic implementation that showcases both diffuse lighting and image-based lighting techniques.
 
